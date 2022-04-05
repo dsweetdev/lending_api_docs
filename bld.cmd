@@ -1,0 +1,1 @@
+docker run --rm --name slate -v C:/Users/dwill/source/repos/global_corp/build:/srv/slate/build -v C:/Users/dwill/source/repos/global_corp/source:/srv/slate/source slatedocs/slate build
